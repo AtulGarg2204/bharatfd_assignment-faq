@@ -74,6 +74,7 @@ This project is a **FAQ Management API** that supports **multi-language translat
    MONGO_URI=your_mongodb_connection_string
    REDIS_HOST=localhost
    REDIS_PORT=6379
+   PORT= 8080
    ```
 
 **Run the application**

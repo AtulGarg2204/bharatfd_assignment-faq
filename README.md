@@ -1,6 +1,6 @@
 ---
 
-# Bharat FD Assignment - FAQ Web App Backend with Multi-language Support 
+# Bharat FD FAQ Web App Backend 
 
 ## Overview
 
@@ -52,16 +52,15 @@ This project is a **FAQ Management API** that supports **multi-language translat
 
 ### Prerequisites
 
-- **Node.js** (>= 16.x)
-- **MongoDB** (Running locally or on a cloud service like MongoDB Atlas)
+- **Node.js** 
+- **MongoDB** 
 - **Redis** (For caching)
-- **Postman** (Optional, for testing API endpoints)
 
 ### Setup Steps
 
 **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/bharat-fd-assignment.git
+   git clone https://github.com/AtulGarg2204/bharatfd_assignment-faq.git
    cd bharat-fd-assignment
    ```
 
